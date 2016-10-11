@@ -1,0 +1,23 @@
+{
+  "name": "oulafen",
+  "version": "0.0.1",
+  "description": "exscise webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/oulafen/webpack-sample.git"
+  },
+  "keywords": [
+    "webpack",
+    "components"
+  ],
+  "author": "oulafen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oulafen/webpack-sample/issues"
+  },
+  "homepage": "https://github.com/oulafen/webpack-sample#readme"
+}
